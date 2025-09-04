@@ -1,0 +1,4 @@
+--In Go,packages are used instead of classes,There are no concepts like OOPS in java Languages.
+--Each Package in Go is essentially a directory in your workspace.Each Go file must belgon to same packages, and it should start withh keyword package followed by the package name.
+--The main package is a special package in GGo. An executable program must contain a main package.
+--Go uses relative import to  bring packages into the current file the relattive path is usually $GOPATH 

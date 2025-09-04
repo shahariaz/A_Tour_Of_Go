@@ -1,8 +1,15 @@
 package main
 
-import "fmt"
+import (
+	num "a_go/package"
+	"a_go/variable"
+	"fmt"
+)
 
 func main() {
 	fmt.Println("Hello, 世界")
-	test()
+	num.Println()
+	num.Find()
+	variable.Variable()
+
 }
