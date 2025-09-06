@@ -1,0 +1,15 @@
+execution serials -->
+1. global
+2. init func
+3. main func
+
+There are many type of function in go
+
+--Starnderd or named function
+--Init function
+--Anonymous function
+--IIFE Immediately Inovked function expression
+--Function Expression
+--First Order function
+--Higher Order Function || First Class Funtion
+--callback funtion

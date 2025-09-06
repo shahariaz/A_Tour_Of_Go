@@ -6,10 +6,15 @@ import (
 	"fmt"
 )
 
+var (
+	x = "hello"
+)
+
 func main() {
 	fmt.Println("Hello, 世界")
 	num.Println()
 	num.Find()
 	variable.Variable()
+	test()
 
 }
